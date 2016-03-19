@@ -1,17 +1,17 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/jekyll-theme-EasyBook" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+title: The Autoscores blog
+url: "http://as-blog.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
-  One or more sentences introducing this blog.
+  Autoscores is a web application that helps car managers better price their vehicles. Using big data, we can predict when your cars will sell.
 
 # Your information
-email: your_email@example.com
-author: your_name
+email: noah@autoscores.com
+author: Autoscores
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
-#twitter_username: twitter_username
+twitter_username: noahajohn
 #github_username:  github_username
 
 # Comment Service (Disqus or 多说)
