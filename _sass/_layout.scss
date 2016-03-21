@@ -221,16 +221,17 @@
 	.contact {
 		margin-top: 10px;
 		a {
-			background: #999;
-			color: #eee;
+			font-size: 24px;
+			//background: #999;
+			color: #fd7949;
 			padding: 5px 10px;
 			text-decoration: none;
-			border-radius: 5px;
+			//border-radius: 5px;
     		white-space: nowrap;
 			
 			&:hover {
-				transition: background 0.3s ease;
-				background: #666;
+				//transition: background 0.3s ease;
+				color: #e06029;
 			}
 		}
 	}
