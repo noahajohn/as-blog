@@ -9,7 +9,7 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $code-font-family:   Menlo, Monaco, Consolas, "DejaVu Sans Mono", "Liberation Mono", "文泉驿等宽微米黑", "Courier New", Courier, SimSun, monospace;
-$code-font-size:     15px;
+$code-font-size:     14px;
 
 // Width of the content area
 $content-width:    800px;
@@ -17,12 +17,13 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-$color-link: #036;
-$color-link-hover: #069;
+$color-link: #337ab7;
+$color-link-hover: #23527c;
 
-$header-bg: #607D8B;
+$header-bg: rgba(231, 231, 231, 1.0);
 $header-bg-hover: #78909C;
-$header-link: #CFD8DC;
+$header-link: #777;
+$header-link-hover: #333;
 $header-fg: #FFF;
 
 @mixin media-query($device) {

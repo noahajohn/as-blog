@@ -1,5 +1,5 @@
 # Site settings
-title: The Autoscores blog
+title: The Autoscores Blog
 url: "http://noahajohn.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "/as-blog" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
@@ -10,13 +10,13 @@ description: >
 email: noah@autoscores.com
 author: Autoscores
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
-profile: One sentence introducing yourself.
+profile: Co-founder
 twitter_username: noahajohn
 #github_username:  github_username
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-#disqus_shortname: xxx   # get one: https://disqus.com/admin/signup/
+disqus_shortname: noahajohn   # get one: https://disqus.com/admin/signup/
 #duoshuo_shortname: xxx  # get one: http://duoshuo.com/create-site/
 
 permalink: /archivers/:title

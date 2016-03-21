@@ -1,12 +1,18 @@
 <header class="header">
   <div class="wrapper">
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <a class="site-title" href="#"><div><span class="logo"><span class="icon-bar"></span></span>
+  <span class="logotext"><span style="color:#4B4B4B;">Auto</span><span style="color:#fd7949;">scores</span></span></div></a>
+    <!-- <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a> -->
     <nav class="site-nav">
-      {% for page in site.pages %}
-        {% if page.title and page.public %}
-        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
+        <a class="page-link" href="http://www.autoscores.com">Home</a>
+        <a class="page-link" href="http://www.autoscores.com/#/pricing">Pricing</a>
+        <a class="page-link" href="http://www.autoscores.com/#/faq">FAQ</a>
+        <a class="page-link" href="{{ site.baseurl }}/">Blog</a>
+        <a class="page-link" href="http://www.autoscores.com/#/contactus">Contact us</a>
+        <a class="page-link float-right" href="http://www.autoscores.com/#/login">Log in</a>
+        <a class="page-link float-right btn-signup" href="http://www.autoscores.com/#/signup">Sign up</a>
     </nav>
   </div>
 </header>
+
+<a class="navbar-brand" ui-sref="home"><div id="logo" x-ng-include="'partials/menu/logo.html'"></div></a>
