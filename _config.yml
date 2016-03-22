@@ -1,7 +1,7 @@
 # Site settings
 title: The Autoscores blog
-url: "http://noahajohn.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
-baseurl: "/as-blog" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
+url: "http://blog.autoscores.com"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+baseurl: "/" # the prefix of your site uri, eg. `/jekyll-theme-EasyBook` or just one slash `/`
 #timezone: Asia/Chongqing
 description: >
   Autoscores is a web application that helps car managers better price their vehicles. Using big data, we can predict when your cars will sell.
