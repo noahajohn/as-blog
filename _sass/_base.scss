@@ -73,3 +73,13 @@ h1,h2,h3,h4,h5,h6{
 	font-weight: normal;
 	font-family: Montserrat, Arial, Helvetica, sans-serif;
 }
+
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: grey;
+        margin-top: $base-line-height / 3;
+        font-size: $small-font-size;
+    }
+}
