@@ -49,6 +49,3 @@ Personally, I'm super excited about the growth of predictive analytics over the 
 [techcrunch]: http://techcrunch.com/2016/03/19/how-real-businesses-are-using-machine-learning/
 [deeplearning]: http://venturebeat.com/2016/04/02/deep-learning-will-be-huge-and-heres-who-will-dominate-it/
 [forbes]: http://www.forbes.com/sites/kevinmurnane/2016/04/01/what-is-deep-learning-and-how-is-it-useful/
-
-
-
