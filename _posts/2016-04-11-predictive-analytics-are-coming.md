@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Predictive analytics in Wall Street and why it will be huge in auto."
-date:   2016-04-11 06:01
+date:   2016-04-11 05:00
 categories: jekyll
 permalink: /archivers/predictive-analytics-in-wall-street-and-why-they-will-be-huge-in-auto
 author: "Noah John"
