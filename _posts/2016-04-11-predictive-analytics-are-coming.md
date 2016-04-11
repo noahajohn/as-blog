@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Predictive analytics in Wall Street and why it will be huge in auto."
-date:   2016-04-11 06:00
+date:   2016-04-11 06:01
 categories: jekyll
 permalink: /archivers/predictive-analytics-in-wall-street-and-why-they-will-be-huge-in-auto
 author: "Noah John"
@@ -49,3 +49,4 @@ Personally, I'm super excited about the growth of predictive analytics over the 
 [techcrunch]: http://techcrunch.com/2016/03/19/how-real-businesses-are-using-machine-learning/
 [deeplearning]: http://venturebeat.com/2016/04/02/deep-learning-will-be-huge-and-heres-who-will-dominate-it/
 [forbes]: http://www.forbes.com/sites/kevinmurnane/2016/04/01/what-is-deep-learning-and-how-is-it-useful/
+	
