@@ -2,7 +2,7 @@
 layout: post
 title:  "First timer's perspective on NADA 2016"
 date:   2016-04-18 02:00
-categories: jekyll
+categories: [conference]
 permalink: /archivers/first-timer-at-nada
 author: "Noah John"
 ---

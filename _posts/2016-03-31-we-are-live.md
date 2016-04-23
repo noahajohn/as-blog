@@ -2,7 +2,7 @@
 layout: post
 title:  "We are live!"
 date:   2016-03-21 08:00
-categories: jekyll
+categories: [big data]
 permalink: /archivers/we-are-live
 author: "Noah John"
 ---

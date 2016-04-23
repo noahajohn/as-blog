@@ -23,6 +23,7 @@ disqus_shortname: noahajohn
 
 permalink: /archivers/:title
 gems:
+ - jekyll-sitemap
  - jekyll-paginate
  - jekyll-gist
  - jemoji
