@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 Reasons Why Auto Dealers Need to Embrace Online Analytics"
-date:   2016-05-09 18:00
+date:   2016-05-16 18:00
 categories: jekyll
 permalink: /archivers/three-reasons-why-auto-dealers-need-to-embrace-online-analytics
 author: "Noah John"
