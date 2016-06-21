@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Explaining predictive analytics using animal behavoir"
-date:   2016-06-20 16:00
+date:   2016-06-20 08:00
 categories: predictive analytics
 permalink: /explaining-predictive-analytics-using-animal-behavoir
 author: "Noah John"
