@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Explaining predictive analytics using animal behavoir"
+date:   2016-06-20 16:00
+categories: predictive analytics
+permalink: /explaining-predictive-analytics-using-animal-behavoir
+author: "Noah John"
+---
+
+I think predictive analytics are super cool and extremely powerful. I will gladly nerd out with anyone that wants to discuss different predictive algorithms and data pre-processing techniques. However, I dislike how unapproachable my beloved topic can be. Nerding out by throwing out all the fancy terminology I just read about does nothing to educate my potential clients and gain new adopters. Hence, I'm always looking for new ways to explain what I do to others by relating it to something they already know well. Sometimes these relatable examples can come from interesting sources.  In this blog, I will share what I learned from an animal behavior expert and why it's a parallel to the seemingly impersonal, digital world of predictive analytics. 
+
+# Looking to the animal world
+A good friend of mine, [David Enden][enden], is an animal behavior expert and founder of [ARRC][arrc]. He's worked at animal sanctuaries and zoos across the world, training both domestic and wild animals. Some of his notable work has been with big cats. Many big cats, such as lions and tigers, are bought as pets in the US, but are discarded when they grow to maturity. Some of these discarded animals end up at sanctuaries where people like David care for them. Often times they use training techniques to improve their quality of life. For example, an animal with anxiety issues related to certain sounds can be slowly desensitized to those sounds with careful application of training techniques. I've had conversations with David about animal behavior and his training philosophies. While I lack an animal behavior background and never even grew up with pets, I've found his insights particularly interesting and educational because they relate to my work as data scientist in Autoscores. 
+
+## Acute perception and vast experience
+At first glance, this might seem crazy. How does David caring for a tiger in a sanctuary relate to my work in predictive analytics? One is grounded in the physical world, the other in the 0s and 1s of the digital world. The primary similarity is our focus. At basic level, he and I focus on the same thing: behavior. When explaining to me how he conducts a training session with an animal, David emphasized that his focus is on far more than just the animal's response to a training request. He's constantly monitoring every possible detail of the animal's current state, such as breathing, posture, and pupil dilation. All those pieces of information give him a more accurate assessment of the animal's behavior. Over many years and many training sessions, David has learned what are important behavioral cues that animals can demonstrate. He's seen countless combinations of animal cues and environmental cues to know what expect in any given situation. In other words, he can gauge and predict what's going to happen. This is what makes him an excellent trainer, acute perception and vast experience of situations and outcomes.
+
+## How this translate to predictive analytics?
+Fundamentally, as a predictive analyst, I'm doing the exact same thing. The only difference is that the behavioral cues I look at are online, not in person. When people browse the internet, they interact with it. They click, scroll, and swipe their way through terabytes of content. And just like in the real world, there are patterns to each person's interactions. Maybe they like to hover their mouse over an item in Amazon that interests them. Or maybe they always check Facebook before opening Instagram. Whatever the pattern is, we all have a set of behavioral cues online just as we do in real life.
+
+A reality of our digital age is that every interaction we take online is being recorded somehow. This means all those behavioral cues and patterns are sitting in a data center somewhere for a guy like me to analyze. The problem is that I cannot see the patterns with my own eyes, I need to employ computers to help me. Not only is the raw information too abstract for me in understand, there's way too much information for me to hold in my head.  However, computers are great at handling this information. Therefore, I write programs and use statistics to direct computers to find patterns in online behavioral data. Those patterns can then tell me what that person is likely to do in a given situation. You might have noticed your iPhone does this. If you like to listen to Spotify at the gym, you'll soon see the Spotify icon appear on your lock screen when you're in the gym. Your iPhone has associated your location and listening habits. Anytime you enter the gym, it predicts you'll want to listen to Spotify! 
+
+Officially, a lot of what I've discussed is considered "machine learning." The term doesn't refer to computers becoming world dominating robots. Instead it refers to finding patterns in data (behavioral or otherwise) using computer programs. Enough data allows a computer program to "learn" from it, spot the patterns, and predict outcomes based on those patterns.
+
+## Back to the animals
+Animals are fun. Even though we don't share the same language, we can study them attentively and learn their habits. The same is true as a predictive analyst. While studying online data might not be as fun as studying a furry feline or scaly reptile, there are still habits and behavior cues to be read. With careful observation and enough experience, we can learn what someone will likely do, whether they're in front of us or online.  
+
+[enden]: https://www.linkedin.com/in/david-enden-45b10966
+[arrc]: http://www.arrcconsulting.com/
